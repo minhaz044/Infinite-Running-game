@@ -1,0 +1,45 @@
+Set Builder: New York, Setup Guide 
+ 
+ 
+1)    Sample Scene Setup 
+ 
+------------------------------- 
+NY Scene 
+-------------------------------- 
+Quality settings: Shadows 
+ 
+Shadow Cascades = 4 
+Shadow Distance 250 
+ 
+-------------------------------- 
+NY Optimized Scene: Light mapped 
+-------------------------------- 
+ Quality settings: Shadows 
+ 
+Shadow Cascades = 0 
+Shadow Distance 50 
+ 
+1)    Modular Construction / Vertex Snapping 
+ 
+ 
+You can assemble your worlds more easily with a feature called Vertex Snapping. This feature is a really simple but powerful tool in Unity. It lets you take any vertex from a given mesh and with your mouse place that vertex in the same position as any vertex from any other mesh you choose. 
+ 
+With this you can assemble your worlds really fast. For example, you can place roads in a racing game with high precision and add power up items on the vertices of a mesh. 
+ 
+------------------------------------------------------------------ 
+Using vertex snapping in Unity is simple. Just follow these steps: 
+------------------------------------------------------------------ 
+ 
+ 
+1.1)  Select the mesh you want to manipulate and make sure the Transform Tool is active. 
+1.2)  Press and hold the V key to activate the vertex snapping mode. 
+1.3)  Move your cursor over the vertex on your mesh that you want to use as the pivot point. 
+1.4)  Hold down the left button once your cursor is over the desired vertex and drag your mesh next to any other vertex on another mesh. 
+1.5)  Release your mouse button and the V key when you are happy with the results. 
+1.6)  Shift-V acts as a toggle of this functionality. 
+1.7)  You can snap vertex to vertex, vertex to surface and pivot to vertex. 
+ 
+ 
+ 
+ 
+For more more details on optimization visit (http://www.tlcindie.co.uk/#/sb-new-york/4570874870)
